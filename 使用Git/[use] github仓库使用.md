@@ -1,11 +1,3 @@
----
-title: "github仓库及私有仓库提交-1"
-tags: ["github"]
-categories: ["github"]
-date: "2019-05-30T21:00:00+08:00"
-url: "/2019/5/30/new-github.html"
----
-
 ## 方法一：new 仓库提交
 
 1. 在Github上**new**一个repository；

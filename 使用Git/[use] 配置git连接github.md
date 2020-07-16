@@ -1,5 +1,5 @@
 ---
-title: "配置git连接github环境(ubuntu16.04 18.04)"
+[title: "配置git连接github环境(ubuntu16.04 18.04)"
 tags: ["install"]
 categories: ["Tool"]
 date: "2020-02-22T21:00:00+08:00"

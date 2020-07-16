@@ -1,10 +1,4 @@
----
-title: "github常见错误  could not read from remote repository-1"
-tags: ["problem"]
-categories: ["github"]
-date: "2020-02-21T21:00:00+08:00"
-url: "/2019/02/21/use-github-remote-1.html"
----
+
 
 ## 问题1
 
