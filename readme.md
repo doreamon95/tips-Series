@@ -12,7 +12,7 @@
 
 🔨🍁搜索类🍁
 
-- everything
+- [everything](https://www.voidtools.com/zh-cn/downloads/)
 
 🔨🍁清理类🍁
 
@@ -27,7 +27,6 @@
 - ShaowsocksR
 - clash
 - v2ray
-
 ---
 
 🔨🍁笔记类🍁
