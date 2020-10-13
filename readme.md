@@ -31,7 +31,7 @@
 🍁笔记类🍁
 
 - notepad++：记事本形式小工具，很棒的，临时看一个代码等
-- Typora：markdown笔记软件，即时渲染
+- Typora：markdown笔记软件，即时渲染，视频讲解：https://www.bilibili.com/video/BV1hZ4y1M7ZK
 - onenote
 - 导图类
   - 幕布
@@ -163,6 +163,8 @@
 🍁扫描类🍁
 
 - CS扫描全能王
+## 推荐浏览器
+- Alook
 
 ## 🔍谷歌插件
 
